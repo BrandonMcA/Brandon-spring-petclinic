@@ -71,7 +71,7 @@ class OwnerControllerTests {
 		Owner george = new Owner();
 		george.setId(TEST_OWNER_ID);
 		george.setFirstName("Steve");
-		george.setLastName("Jobs");
+		george.setLastName("Job");
 		george.setAddress("110 W. Liberty St.");
 		george.setCity("Madison");
 		george.setTelephone("6085551023");
