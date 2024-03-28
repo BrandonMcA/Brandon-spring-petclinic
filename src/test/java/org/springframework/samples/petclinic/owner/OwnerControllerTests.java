@@ -68,7 +68,7 @@ class OwnerControllerTests {
 	private OwnerRepository owners;
 
 	private Owner george() {
-		Owner george = new Owner();
+		Owner george = ne Owner();
 		george.setId(TEST_OWNER_ID);
 		george.setFirstName("George");
 		george.setLastName("Franklin");
