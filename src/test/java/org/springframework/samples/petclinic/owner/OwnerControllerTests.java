@@ -70,11 +70,7 @@ class OwnerControllerTests {
 	private Owner george() {
 		Owner george = new Owner();
 		george.setId(TEST_OWNER_ID);
-		george.setFirstName("";
-		george.setLastName("";
-		george.setAddress("110 W. Liberty St.");
-		george.setCity("Madison");
-		george.setTelephone("6085551023");
+		georg
 		Pet max = new Pet();
 		PetType dog = new PetType();
 		dog.setName("dog");
