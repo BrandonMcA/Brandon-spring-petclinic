@@ -68,12 +68,7 @@ class OwnerControllerTests {
 	private OwnerRepository owners;
 
 	private Owner george() {
-		Owner george = new Owner();
-		george.setId(TEST_OWNER_ID);
-		george.setFirstName("George");
-		george.setLastName("Franklin");
-		george.setAddress("110 W. Liberty St.");
-		george.setCity("Madison");
+		Owner
 		george.setTelephone("6085551023");
 		Pet max = new Pet();
 		PetType dog = new PetType();
