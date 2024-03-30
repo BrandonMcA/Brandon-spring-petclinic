@@ -348,7 +348,7 @@
           <plugin>
             <groupId>com.gitlab.haynes</groupId>
             <artifactId>libsass-maven-plugin</artifactId>
-            <version>${}</version>
+            <version>${libsass.version}</version>
             <executions>
               <execution>
                 <phase>generate-resources</phase>
